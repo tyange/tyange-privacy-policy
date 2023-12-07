@@ -4,7 +4,7 @@ date: 2023-12-07
 ---
 **Privacy Policy**
 
-tyange built the both of us app as free app. This SERVICE is provided by tyange at no cost and is intended for use as is.
+tyange built the both-of-us app as free app. This SERVICE is provided by tyange at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
